@@ -1,5 +1,17 @@
 # AI_Advance
-This advance AI can detect blue and green colour.
+Ai connecting humans
+
+This advance AI can detect blue and green colour for scroll purpose.
+
+and can do a lot activities like virtual painting according to colour detection
+
+remote mouse control and many more ..
+
+any modifications or any bug error
+
+contact me at - royarpan28@protonmail.com
+
+follow me - https://www.facebook.com/profile.php?id=100012140687974
 
 For any changes or any problems in code contact me at my email 
 royarpan28@protonmail.com
@@ -55,8 +67,7 @@ own voice recognitiom building soon on advance neural net
 
 and will be uploaded , check my normal Ai description for problems and errors
 
-Thank you
-
+happy coding :>
 
 
 
